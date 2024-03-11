@@ -117,4 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
     setInterval(gameLoop, 200);
   });
-      
+
+
+
+
