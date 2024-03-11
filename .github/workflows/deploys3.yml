@@ -3,7 +3,7 @@ name: AWS_Demo_S_Website
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   deploy:
